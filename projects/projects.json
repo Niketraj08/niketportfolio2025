@@ -1,0 +1,105 @@
+[
+  {
+    "name": "github-profile-finder",
+    "desc": "A simple website to showcase GitHub profile stats using GitHub API. Built using HTML, CSS, JavaScript and Chart.js.",
+    "image": "github",
+    "category": "android",
+    "links": {
+      "view": "https://githubprofilefinder-alpha.vercel.app/",
+      "code": "https://github.com/Niketraj08/githubprofilefinder"
+    }
+  },
+  {
+    "name": "heart ",
+    "desc": "A simple website to showcase heart rate using HTML, CSS, JavaScript . It uses random data to display heart rate.",
+    "image": "heart",
+    "category": "basicweb",
+    "links": {
+      "view": "https://heart-line-fro-you.vercel.app/",
+      "code": "https://github.com/Niketraj08/heart_line_fro_you"
+    }
+  },
+  {
+    "name": "Instagram story",
+    "desc": "A simple website to showcase Instagram story using HTML, CSS, JavaScript . It uses random data to display instagram story.",
+    "image": "instagram",
+    "category": "basicweb",
+    "links": {
+      "view": "https://instagram-story-chi.vercel.app/",
+      "code": "https://github.com/Niketraj08/instagram_story"
+    }
+  },
+  {
+    "name": "Linklist",
+    "desc": "Linklist is a simple website to showcase all your social media links in one place. Built using HTML, CSS, JavaScript.",
+    "image": "linklist",
+    "category": "basicweb",
+    "links": {
+      "view": "https://linklist-delta.vercel.app/",
+      "code": "https://github.com/Niketraj08/linklist"
+    }
+  },
+  
+
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "port",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Techfest Projects Website",
+    "desc": "A simple website to showcase Techfest projects using HTML, CSS, JavaScript ",
+    "image": "techfest",
+    "category": "basicweb",
+    "links": {
+      "view": "https://tech-fest-2k24.vercel.app/",
+      "code": "https://github.com/Niketraj08/Tech_fest_2k24_"
+    }
+  },
+  {
+    "name": "youtube-clone",
+    "desc": "A simple website to showcase YouTube clone using HTML, CSS, JavaScript and YouTube API.",
+    "image": "youtube",
+    "category": "mern",
+    "links": {
+      "view": "https://youtube-thumbnail-download-chi.vercel.app/",
+      "code": "https://github.com/Niketraj08/youtube_thumbnail_download"
+    }
+  },
+  {
+    "name": "bgmi-card",
+    "desc": "A simple website to showcase BGMI card using HTML, CSS, JavaScript and Bootstrap.",
+    "image": "bgmi",
+    "category": "mern",
+    "links": {
+      "view": "https://bgmi-card.vercel.app/",
+      "code": "https://github.com/Niketraj08/bgmi_card"
+    }
+  },
+  {
+    "name": "solar system Website",
+    "desc": "A simple website to showcase solar system using HTML, CSS, JavaScript and Bootstrap.",
+    "image": "solar",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Niketraj08/solar_system"
+    }
+  },
+  {
+    "name": "cricket ball ",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "cricket",
+    "category": "basicweb",
+    "links": {
+      "view": "https://cricketballusingjs.vercel.app/",
+      "code": "https://github.com/Niketraj08/cricketballusingjs"
+    }
+  }
+ 
+]
